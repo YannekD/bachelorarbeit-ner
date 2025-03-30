@@ -15,8 +15,6 @@ Dieses Repository enthält zahlreiche Jupyter Notebooks, die während der Bachel
 
     nicht immer sofort ausführbaren Code,
 
-    experimentelle oder redundant gewordene Abschnitte,
-
     teilweise harte Pfade zu lokalen Dateien.
 
 📌 Wichtiger Hinweis:
