@@ -9,7 +9,8 @@ Dieses Repository enthält den vollständigen Code, die Datenstruktur und die Ex
 ## Ziel
 
 Ziel der Arbeit ist es, verschiedene Modellarchitekturen (BiLSTM-CRF, BERT, RoBERTa) auf einem manuell annotierten historischen Korpus zu vergleichen. Dabei werden insbesondere der Einfluss von Modelltyp, Modellgröße, domänenspezifischem Pretraining und Datenmenge untersucht.
-🔍 Hinweise zur Reproduzierbarkeit
+
+## 🔍 Hinweise zur Reproduzierbarkeit
 
 Dieses Repository enthält zahlreiche Jupyter Notebooks, die während der Bachelorarbeit verwendet wurden, um verschiedene Experimente durchzuführen. Viele dieser Notebooks entstanden iterativ und explorativ – sie enthalten daher:
 
